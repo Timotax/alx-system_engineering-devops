@@ -1,2 +1,2 @@
-#!/bi/bash
-ls -lnR
+#!/bin/bash
+ls -lanR
